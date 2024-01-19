@@ -1,0 +1,10 @@
+lanuages dont matter
+make use http in python powerpoint 
+no api keys 
+[11:07] Tim Bashford
+https://stackoverflow.com/questions/53075939/calling-rest-api-with-an-api-key-using-the-requests-package-in-python
+Calling REST API with an API key using the requests package in Python
+What should the python code to call the REST API below using the requests package? I do not know how to pass the "apikey" 
+curl -X POST -u "apikey":"1234abcd" -H "Accept: application/json" -F "fil...
+
+-take a look at python slides for more libaies 

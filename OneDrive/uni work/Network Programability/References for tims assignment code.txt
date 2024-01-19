@@ -1,0 +1,5 @@
+References for tims assignment code 
+
+code used to get json data-https://teams.microsoft.com/_#/conversations/19:2f894ec6-1403-4f17-b28b-5f1f7519461e_89a9e14c-d110-43ad-b35a-1cc45e55cf08@unq.gbl.spaces?ctx=chat
+
+code for extracting specific json data - https://medium.com/@sharath.ravi/python-function-to-extract-specific-key-value-pair-from-json-data-7c063ecb5a15#:~:text=The%20function%20first%20uses%20the,dictionary%2C%20the%20method%20returns%20None%20.

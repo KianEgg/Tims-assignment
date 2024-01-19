@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<devices>
+	<device hostname="Router">
+		<ipaddress>192.168.0.1</ipaddress>
+		<subnetmask>255.255.255.0</subnetmask>
+		<defaultgateway>103.25.91.228</defaultgateway>
+		<dnsserver>	</dnsserver>
+	</device>
+	<device hostname="PC-1">
+		<ipaddress>192.168.0.2</ipaddress>
+		<subnetmask>255.255.255.0</subnetmask>
+		<defaultgateway>192.168.0.1</defaultgateway>
+		<dnsserver>192.168.0.4</dnsserver>
+	</device>
+	<device hostname="PC-2">
+		<ipaddress>192.168.0.3</ipaddress>
+		<subnetmask>255.255.255.0</subnetmask>
+		<defaultgateway>192.168.0.1</defaultgateway>
+		<dnsserver>192.168.0.4</dnsserver>
+	</device>
+	<device hostname="Server">
+		<ipaddress>192.168.0.4</ipaddress>
+		<subnetmask>255.255.255.0</subnetmask>
+		<defaultgateway>192.168.0.1</defaultgateway>
+		<dnsserver>192.168.0.1</dnsserver>
+	</device>
+</devices>

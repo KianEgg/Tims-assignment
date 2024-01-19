@@ -1,0 +1,39 @@
+Public Weather AP1 link- https://github.com/robertoduessmann/weather-api
+
+Yes/No generator API- https://yesno.wtf/api
+
+Public Weather AP1 link- https://github.com/robertoduessmann/weather-api
+
+Yes/No generator API- https://yesno.wtf/api
+
+Fake data generator/tester API - https://fakejson.com/
+
+uber calculator - https://developer.uber.com/products
+
+TV Show/Movie Data API - https://trakt.docs.apiary.io/#introduction/stay-connected
+
+Breaking Bad API - https://breakingbadapi.com/?caf&&query=Api+Documentation&afdToken=ChMI36q2v6vdgwMVhvO7CB1bpAYXEmYBlLqpj5lJo20yFmljgmU60GCOKtcA4n-YYW94zThfFCiwlcoO7TPl_-t4YSH7HMzh0GcGitWyD4DpwIuMwIq6QHgzhQk_TxWbQ0xsRWlRQwm7Ymv5EuaOzjSnelzBCMPtMvVJ5nY&pcsa=false&nb=0&rurl=https%3A%2F%2Fgithub.com%2Fpublic-apis%2Fpublic-apis%3Ftab%3Dreadme-ov-file&nm=4&nx=309&ny=57&is=700x481&clkt=212&bg=!gYKlgs3NAAZ1R9vHVUc7ADQBe5WfOH_fkmeeCJ9XqWCfOKi-mwGs3IFq5FfqkiNXjY7PA-4ftJA1TXLhiP-kfD5T-pdGAgAAABVSAAAABGgBBwoAxATOvJcUxgeWXA-bS_MHouLhc0sLkHitx5GbvT-iLfK82MckWx9jS4bhe2fxQ_0XFQAZKukm8WsbXkHlJW3exOXWjwd2g99ge2uuoTp8SzkTNhVvvEeoIQ9BsBtjZoKCfjbZney65GaSsfsfzR-RlpWbfCgrcj95IcSADgaZWuPezQqiJwE4stf6qvx5eq7dvFcVaSzE5JXN7Der9cJ3oqc__a_rvPlgHOrg60lkYxNl9LyBhNTX0XK6I5T8AgF10Nvw_qqZAg6QoH1DennsJoSbnlKSeNRedADobmSM6vkDMDgwP8xGdVdOPNx9AfMRF1mtdc_XC4blqz7OIkd1pAuj7RTuC7PCrACIpYZ9TCSOlsBxSpQp5HxL2UM7Drk2rC6IuraTUBqGx6CH_yPJndAl4mBpRViAZnvFbnUy4WUzaHjQbq43f8M0gc6OyvQTCm2J7kV4FhfxHd2W-c8jvJUO1L3FKRIsyU4jSCkvJvkuWNkIgDzLrkC0FOBOMeEAu4kauAQDIyU0hogOcwk5t5W1nSx0_qjWaLsl64e-d-GwZUyeEXM7rCBidk5olzF4jHp7wmoRHLYRNAJRlgV6zlE-ZMgiIgES3636DYnLwxxlko8ri4IcM5JFs4ZCtMAatFRQSh2oMgLDrRWJv4pelHrIxD-7gUgMh_QQfMWEsvAuGwynDkSAKpNqLbiSNQMnA87jXBXOboXJ-U9WlgjuwvuqTdChuvpaJNd75Yd0nEfsCBRtLCx4x_1q_70m5Ebux-57aLoMtA3b-PFNUd5dJ2fxAB6enJ1tLiKZHKQ4eT2dwXQbstldXPGIlee1K6QZGK8BuJvJiEk_E1e6jAbKsRJFB_vT4TIxYA4BdTm74WP3leUIz53XSd4kvV-gdUX4AK6349VOUrwyYQfxmAKVVoB20p1odTBGLxDLGRRVRM4DQfgJoFScBv4tgJA1OPKRqWUw9asU
+
+
+validate phone number api - https://www.abstractapi.com/api/phone-validation-api
+
+
+
+weather alerts api - https://developer.accuweather.com/accuweather-alerts-api/apis
+
+
+Helpful Links:
+
+link to public json api's- https://www.jsonapi.co/public-api
+
+possible uesable api for holiday information - de5006cf-db6b-4553-bc8d-a9e53ccc6035
+
+Football api link - https://www.api-football.com/documentation-v3#section/Authentication/RAPIDAPI-Account
+
+Aviation/weather api link (no key) - https://aviationweather.gov/data/api/#/
+
+hong kong clouds api - https://data.gov.hk/en-data/dataset/hk-hko-rss-daily-mean-amount-of-cloud
+
+OD weather API - https://api.oceandrivers.com/static/resources.json
+
+open - meteo waether api - https://open-meteo.com/
